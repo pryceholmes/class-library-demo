@@ -1,13 +1,7 @@
 # class-library-demo
 Class Project - c++ OO programming example
 
-This project was the final c++ project for CSE 240 at ASU. The program was partially completed
-
-
-
-You are given a partially completed program that creates a list of rooms.
-Each room has name, number of rooms and library type (hayden or noble).
-This information is stored as an object of Room class. Class defined in room.h
-The classes Hayden and Noble are child classes of the Room class.
-When adding a new room, these child classes are used to make the room node of the list.
-So each node in the list is actually an object of either Hayden or Noble class.
+This project was the final c++ project for CSE 240 at ASU. The program was partially completed when the assignment was given.
+The main file is the hw7.cpp file, all over files are class files or header files for hw7.cpp. 
+Follow along with the comments to show what was already written, but most of the program was written by me. 
+The assignment instructions, and more info can be found in the comments of the hw7.cpp file.
